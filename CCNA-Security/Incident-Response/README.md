@@ -7,9 +7,9 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-## 📂 Labs & Artifacts
+##  Labs & Artifacts
 
-### 🖥️ Lab 5 — Host-Based Security & Access Control
+### Lab 5 — Host-Based Security & Access Control
 - Applied host-based security controls and access restrictions
 - Tuned configurations to reduce unauthorized access risks
 - Strengthened system-level defenses
@@ -18,7 +18,7 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-### ⚙️ Lab 6 — Automated Security Log Monitoring
+###  Lab 6 — Automated Security Log Monitoring
 - Developed PowerShell script to monitor security logs
 - Filtered for suspicious activity and failed login attempts
 - Automated execution using Windows Task Scheduler
@@ -27,7 +27,7 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-### 📊 Milestone — Incident Response Plan
+###  Milestone — Incident Response Plan
 - Created a full incident response report using NIST framework
 - Documented detection, containment, eradication, and recovery steps
 - Provided recommendations for improving security posture
@@ -36,7 +36,7 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-## 🚨 Simulated Incident Scenario
+##  Simulated Incident Scenario
 
 - Incident Type: Unauthorized RDP brute-force attack  
 - Indicators:
@@ -48,7 +48,7 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Incident detection and analysis  
 - Log analysis and threat identification  
@@ -59,7 +59,7 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-## 🔍 Incident Response Actions
+##  Incident Response Actions
 
 ### Detection & Analysis
 - Identified repeated failed login attempts  
@@ -84,7 +84,7 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-## 📌 Key Outcomes
+##  Key Outcomes
 
 - Successfully identified and analyzed simulated attack behavior  
 - Applied structured incident response methodology  
@@ -93,7 +93,7 @@ This work is based on the NIST SP 800-61 Incident Response lifecycle and applies
 
 ---
 
-## 📸 Evidence
+##  Evidence
 
 Each artifact includes:
 - Log analysis outputs  
@@ -103,6 +103,6 @@ Each artifact includes:
 
 ---
 
-## 📌 Summary
+##  Summary
 
 This module demonstrates practical experience in incident response and threat mitigation. The work highlights the ability to respond to real-world cybersecurity scenarios using structured frameworks, technical analysis, and defensive strategies.

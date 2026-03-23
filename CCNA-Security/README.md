@@ -7,10 +7,10 @@ These labs are part of a CCNA Security / Network Defense course and align with r
 
 ---
 
-## 📂 Modules
+##  Modules
 
-### 🔐 Access Control & Network Monitoring
-📁 [Open Folder](./Access-Control-Monitoring/)
+###  Access Control & Network Monitoring
+ [Open Folder](./Access-Control-Monitoring/)
 
 Focus areas:
 - Secure remote access (SSH configuration)
@@ -22,8 +22,8 @@ Focus areas:
 
 ---
 
-### 🚨 Incident Response & Threat Mitigation
-📁 [Open Folder](./Incident-Response/)
+###  Incident Response & Threat Mitigation
+ [Open Folder](./Incident-Response/)
 
 Focus areas:
 - Incident response using NIST SP 800-61 framework
@@ -33,7 +33,7 @@ Focus areas:
 
 ---
 
-## 🧪 Key Projects
+##  Key Projects
 
 ### Secure Remote Access (SSH Lab)
 - Configured SSHv2 and RSA keys
@@ -60,7 +60,7 @@ Focus areas:
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Network security configuration (SSH, access control)
 - Traffic analysis and packet inspection
@@ -71,7 +71,7 @@ Focus areas:
 
 ---
 
-## 📌 Course Outcomes
+##  Course Outcomes
 
 By completing this work, I developed the ability to:
 - Secure network devices and enforce access control
@@ -82,7 +82,7 @@ By completing this work, I developed the ability to:
 
 ---
 
-## 🔗 Additional
+##  Additional
 
 This repository is part of a larger cybersecurity portfolio demonstrating hands-on experience across networking, security, and system administration.
 

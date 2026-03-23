@@ -1,0 +1,87 @@
+# Bioethics & Society Plan
+
+## Ethics Addendum
+
+This project incorporated ethical considerations throughout both the design and implementation phases.
+
+Key actions included:
+- Ensuring informed consent
+- Minimizing data collection to reduce privacy risks
+- Applying data anonymization techniques to protect user identity
+
+Relevant regulations such as **HIPAA** and **GDPR** (if applicable) were reviewed, and the project aligned with core ethical principles:
+- Transparency  
+- Respect for user autonomy  
+- Fairness  
+
+For any automated decision-making processes:
+- Decision logic was documented  
+- Systems were designed for auditability and explainability  
+
+A risk-benefit analysis was conducted to ensure that potential societal benefits outweigh possible harms.
+
+---
+
+## Equity & Access Analysis
+
+The project primarily benefits connected users, but some groups may be excluded, including:
+- Individuals without reliable internet access  
+- Users with limited digital literacy  
+
+To address this:
+- The interface was designed to be mobile-friendly  
+- Data usage was minimized  
+- Key content was translated into multiple languages  
+
+Future improvements include:
+- Offline functionality  
+- Expanded accessibility features  
+
+---
+
+## Justification (Bioethics + Societal Impact)
+
+Following bioethical principles:
+
+- **Autonomy**: Users can opt out of data sharing  
+- **Beneficence**: The project aims to provide measurable benefits  
+- **Non-maleficence**: Sensitive data usage is restricted  
+- **Fairness**: Algorithmic bias was considered and mitigated  
+
+Broader societal impact was also evaluated:
+- How the technology may scale  
+- Who controls access and use  
+- Whether it could reinforce existing inequalities  
+
+To address these concerns:
+- The project is planned to be released as **open source**  
+- Future iterations will include stakeholder consultation  
+
+---
+
+## Evidence Links
+
+- GitHub Repository: Cyber-Ethics-Portfolio
+
+---
+
+## Reflection
+
+If revisiting this project, several improvements would be made:
+
+- Reevaluate thresholds used to flag high-risk users  
+- Balance precision with inclusivity in model decisions  
+- Expand consent options to allow selective data sharing  
+- Include a more diverse group of testers earlier in development  
+
+The ethical trade-offs in this project were complex but valuable, reinforcing the importance of integrating ethics into technical design.
+
+---
+
+## Key Takeaways
+
+- Ethical considerations must be integrated from the start  
+- Privacy and data minimization are critical  
+- Accessibility and inclusion should be actively addressed  
+- Transparency and accountability improve trust  
+- Continuous evaluation is necessary to maintain ethical alignment

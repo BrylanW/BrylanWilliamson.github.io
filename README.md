@@ -40,7 +40,7 @@ This repository is published via GitHub Pages:
 
 ## Contact Me
 
-I am always open to new opportunities and collaborations. You can reach me via email: **Brylanw19@gmail.com]**  
+I am always open to new opportunities and collaborations. You can reach me via email: **[Brylanw19@gmail.com]**  
 
 
 ---

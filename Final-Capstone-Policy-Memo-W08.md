@@ -6,7 +6,7 @@ In this project, I analyzed the May 2025 ransomware attack on Kettering Health, 
 
 The memo includes a full incident analysis, legal and ethical evaluation, and a comprehensive Cybersecurity & Incident Governance Policy designed to strengthen healthcare system resilience and response capabilities.  
 
-**File:** [Download Final Policy Memo (PDF)](files/CYBR2100_FinalPolicyMemo.pdf)
+**File:** [Download Final Policy Memo (PDF)](/Files/CYBR2100_FinalPolicyMemo.pdf)
 
 ---
 

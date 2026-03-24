@@ -1,4 +1,4 @@
-# Ethical Hacking Practice Labs
+# Ethical Hacking Labs
 
 Welcome to my hands-on penetration testing lab repository.
 

@@ -18,3 +18,13 @@ This project helped me understand how to distinguish between normal system activ
 
 ## Note
 This project is conceptual and does not include any sensitive system or client data.
+## Sample Log Evidence
+
+### Successful Login (Event ID 4624)
+![Successful Login](Labs/Log-Observation/log-4624.png)
+
+### Failed Login (Event ID 4625)
+![Failed Login](Labs/Log-Observation/log-4625.png)
+
+### Logoff Event (Event ID 4634)
+![Logoff Event](Labs/Log-Observation/log-4634.png)

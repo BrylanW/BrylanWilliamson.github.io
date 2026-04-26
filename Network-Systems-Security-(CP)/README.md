@@ -59,3 +59,19 @@ Phishing remains one of the most common cybersecurity threats. This project focu
 - Automate phishing simulations using Python
 - Track user behavior trends over time
 - Integrate GPT-based tools for phishing detection and training
+
+## Project Files
+
+### Analysis
+- Phishing Threat & Audience Analysis
+- Event Analysis Report
+
+### Program Design
+- Program Components Design
+
+### Training
+- Training Module Slides
+- Phishing Awareness Pamphlet
+
+### Simulation
+- Phishing Simulation Plan

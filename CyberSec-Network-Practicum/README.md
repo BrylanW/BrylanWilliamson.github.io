@@ -1,15 +1,29 @@
 # Accessibility Audit – Jacksonville, Ohio Website
 
 ## Overview
-This project was developed as part of the CYBR-2600 Cyber Security & Network Practicum course at Hocking College. It focuses on conducting a professional accessibility audit of the Village of Jacksonville, Ohio public website.
+This project was developed as part of the CYBR-2600 Cyber Security & Network Practicum course at Hocking College. The project simulates a real-world consulting engagement where a team performs an accessibility audit for a public-sector client.
 
-The goal of this project was to identify accessibility barriers, evaluate user impact, and provide structured findings aligned with WCAG 2.1 Level AA standards.
+The goal of this project is to identify accessibility barriers, analyze user impact, and produce professional documentation aligned with WCAG 2.1 Level AA standards.
 
-## Purpose
-Public-sector websites must be accessible to all users, including individuals with disabilities. This audit evaluates how well the Jacksonville, Ohio website supports users who rely on assistive technologies such as screen readers and keyboard navigation.
+## Why This Project Matters
+Public-sector websites must be accessible under ADA Title II requirements. These standards ensure equal access to public information and services for individuals with disabilities.
+
+This project reflects how accessibility, compliance, and risk analysis are performed in professional cybersecurity and IT governance roles.
+
+## Project Approach
+This audit followed a structured, professional workflow:
+
+- Week 1: Orientation and project understanding
+- Week 2: Accessibility standards and audit planning
+- Week 3: Automated accessibility testing
+- Week 4: Manual and assistive technology validation
+- Week 5: Risk analysis and prioritization
+- Week 6: Draft reporting and executive summary
+
+Each phase builds on the previous step to create a complete and defensible accessibility assessment.
 
 ## Scope
-The audit included:
+In scope:
 - Public-facing website pages
 - Navigation and content structure
 - Public documents (PDFs)
@@ -18,63 +32,73 @@ Out of scope:
 - Website remediation or fixes
 - Backend systems
 - Third-party platforms
+- Legal certification of compliance
 
 ## Methodology
-This project used a combination of:
-- Automated testing (WAVE tool)
-- Manual validation (keyboard navigation + screen reader observation)
+This audit used a combination of:
 
-Automated testing identified common issues, while manual testing evaluated real user experience and usability.
+- Automated testing (WAVE tool)
+- Manual validation (keyboard-only testing and screen-reader observation)
+
+Automated testing identified common issues, while manual testing evaluated real user experience and usability. Both methods are required for a credible accessibility audit.
 
 ## Key Findings
-Several accessibility issues were identified, including:
+The audit identified several accessibility risks, including:
+
 - Unclear or missing link descriptions
-- Limited accessibility structure in PDF documents
-- Color contrast concerns affecting readability
-- Layout issues impacting navigation and usability
+- Accessibility limitations in PDF documents
+- Color contrast issues affecting readability
+- Page layout challenges impacting navigation
 
-These findings were prioritized based on user impact and importance of accessing public information.
+These issues were prioritized based on user impact and importance of accessing public information.
 
-## Why This Matters
-Accessibility is critical for public-sector websites because it supports:
-- Equal access to public information
+## Why These Issues Matter
+Accessibility barriers can limit:
+
+- Access to public records
 - Civic participation
-- Transparency and communication
+- Communication with local government
+- Transparency of public information
 
-Barriers in accessibility can prevent users from accessing essential services and information.
+Ensuring accessibility improves usability for all users, not just those with disabilities.
 
 ## Project Artifacts
 
-### Planning
+### Week 2 – Planning
 - Accessibility Assessment Plan
 - Scope & Planning Confirmation
 
-### Testing
+### Week 3 – Automated Testing
 - Automated Accessibility Findings Report
+
+### Week 4 – Manual Testing
 - Manual Accessibility Validation Report
 - Manual Testing Log
 
-### Analysis
+### Week 5 – Analysis
 - Accessibility Risk Register & Prioritization Report
 - Prioritization Reasoning Check
 
-### Final Report
+### Week 6 – Reporting
 - Accessibility Report & Executive Summary
 
 ## Tools & Skills Demonstrated
 - Accessibility auditing (WCAG 2.1 Level AA)
 - Automated testing tools (WAVE)
-- Manual accessibility testing (keyboard + screen reader)
-- Risk prioritization and analysis
+- Manual testing (keyboard + screen reader)
+- Risk analysis and prioritization
 - Professional report writing
 
 ## My Contribution
-I contributed to the planning, testing, analysis, and reporting phases of this accessibility audit. My work focused on identifying user barriers, validating findings through manual testing, and presenting results in a clear and professional format.
+I contributed to the planning, testing, analysis, and reporting phases of this accessibility audit. My work focused on identifying accessibility barriers, validating user impact, and presenting findings in a clear and professional format.
 
 ## Limitations
-This audit was conducted within a limited timeframe and scope. Only a representative sample of pages and one PDF document were tested. Accessibility should be treated as an ongoing process rather than a one-time evaluation.
+This audit was conducted within a limited timeframe and scope. Testing was performed on a representative sample of pages and one PDF document using a single device and browser.
+
+Accessibility should be treated as an ongoing process rather than a one-time evaluation.
 
 ## Future Improvements
-- Conduct full screen-reader testing across all pages
-- Expand testing across multiple devices and browsers
-- Perform deeper document accessibility validation
+- Expand testing across all pages and documents
+- Perform full screen-reader testing
+- Test across multiple devices and browsers
+- Conduct deeper document accessibility validation

@@ -52,3 +52,16 @@ This program focuses on helping users:
 ## Why This Matters
 Phishing remains one of the most common ways attackers gain access to user accounts.  
 This project focuses on reducing that risk through awareness, realistic simulation, and clear reporting actions.
+## Folder Structure
+- `docs/` – project reports and planning documents
+- `flyers/` – awareness pamphlets and outreach materials
+- `screenshots/` – visuals from slides or materials
+- `assets/` – supporting images and files
+
+## Included Work
+This project includes:
+- Threat and audience analysis
+- Event analysis
+- Program components design
+- Training module
+- Phishing simulation plan

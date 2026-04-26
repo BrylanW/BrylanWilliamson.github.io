@@ -1,10 +1,14 @@
 # Hocking Phishing Awareness Program (HPAP)
 
 ## Overview
-This project was developed as part of the CYBR-2600 Cyber Security & Network Practicum course at Hocking College. It demonstrates the design of a phishing awareness and simulation program for a college environment. The goal is to reduce cybersecurity risk by improving user behavior through training and simulated testing.
+This project was developed as part of the CYBR-2600 Cyber Security & Network Practicum course at Hocking College. The project was created in response to a request for a phishing awareness campaign to address real cybersecurity risks on campus.
+
+It demonstrates the design of a phishing awareness and simulation program for Hocking College. The goal is to reduce cybersecurity risk by improving user behavior through training and simulated testing.
 
 ## Problem
-Phishing attacks are one of the most common ways attackers gain access to systems. Many users trust messages based on appearance and urgency, which increases the risk of account compromise, data exposure, and unauthorized access to institutional systems.
+Phishing attacks are one of the most common ways attackers gain access to systems. At Hocking College, users may trust messages based on appearance and urgency, increasing the risk of account compromise, data exposure, and unauthorized access.
+
+This project addresses the need for a structured phishing awareness program to improve user decision-making and reduce risk across the college.
 
 ## Solution
 This project includes:
@@ -42,7 +46,6 @@ The program evaluates user behavior using:
 - Submission rate (users who enter sensitive information)
 
 These metrics help measure risk and improve future training and awareness efforts.
-
 
 ## Why This Matters
 Phishing remains one of the most common cybersecurity threats. This project focuses on reducing that risk by helping users recognize attacks, respond appropriately, and develop safer habits.

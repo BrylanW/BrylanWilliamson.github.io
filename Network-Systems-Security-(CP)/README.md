@@ -43,3 +43,12 @@ This program focuses on helping users:
 * Track user behavior metrics over time
 * Integrate GPT-based phishing detection
 
+## Project Artifacts
+- Phishing awareness training module
+- Phishing simulation plan
+- Reporting workflow documentation
+- Intrusion log analysis notes
+
+## Why This Matters
+Phishing remains one of the most common ways attackers gain access to user accounts.  
+This project focuses on reducing that risk through awareness, realistic simulation, and clear reporting actions.

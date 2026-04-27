@@ -112,8 +112,8 @@ Accessibility should be treated as an ongoing process rather than a one-time eva
 - [Automated Accessibility Findings Report](./Week3_Automated_Testing/Automated+Accessibility+Findings+Report+%28Finished%29.pdf)
 
 ### Week 4 – Manual Testing
-- [Manual Accessibility Validation Report](./Week4_Manual_Testing/Manual_Accessibility_Validation_Report.pdf)
-- [Manual Testing Log](./Week4_Manual_Testing/Manual_Testing_Log.pdf)
+- [Manual Accessibility Validation Report](./Week4_Manual_Testing/Manual+Accessibility+Validation+Report+%28Graded%29aa.pdf)
+- [Manual Testing Participation Log](./Week4_Manual_Testing/Williamson_CYBR2600_Week04ManualTestingParticipationLog%20%281%29.pdf)
 
 ### Week 5 – Analysis
 - [Accessibility Risk Register & Prioritization Report](./Week5_Analysis/Accessibility_Risk_Register.pdf)

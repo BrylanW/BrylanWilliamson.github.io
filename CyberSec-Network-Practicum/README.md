@@ -109,7 +109,7 @@ Accessibility should be treated as an ongoing process rather than a one-time eva
 - [Scope & Planning Confirmation](./Week2_Planning/CYBR2600_Scope%26PlanningConfirmation%20%281%29.pdf)
 
 ### Week 3 – Automated Testing
-- [Automated Accessibility Findings Report](./Week3_Automated_Testing/Automated_Accessibility_Findings_Report.pdf)
+- [Automated Accessibility Findings Report](./Week3_Automated_Testing/Automated+Accessibility+Findings+Report+%28Finished%29.pdf)
 
 ### Week 4 – Manual Testing
 - [Manual Accessibility Validation Report](./Week4_Manual_Testing/Manual_Accessibility_Validation_Report.pdf)

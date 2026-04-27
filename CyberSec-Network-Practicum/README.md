@@ -102,3 +102,22 @@ Accessibility should be treated as an ongoing process rather than a one-time eva
 - Perform full screen-reader testing
 - Test across multiple devices and browsers
 - Conduct deeper document accessibility validation
+## Project Artifacts
+
+### Week 2 – Planning
+- [Accessibility Assessment Plan](./Week2_Planning/Accessibility_Assessment_Plan.pdf)
+- [Scope & Planning Confirmation](./Week2_Planning/Scope_Planning_Confirmation.pdf)
+
+### Week 3 – Automated Testing
+- [Automated Accessibility Findings Report](./Week3_Automated_Testing/Automated_Accessibility_Findings_Report.pdf)
+
+### Week 4 – Manual Testing
+- [Manual Accessibility Validation Report](./Week4_Manual_Testing/Manual_Accessibility_Validation_Report.pdf)
+- [Manual Testing Log](./Week4_Manual_Testing/Manual_Testing_Log.pdf)
+
+### Week 5 – Analysis
+- [Accessibility Risk Register & Prioritization Report](./Week5_Analysis/Accessibility_Risk_Register.pdf)
+- [Prioritization Reasoning Check](./Week5_Analysis/Prioritization_Reasoning_Check.pdf)
+
+### Week 6 – Reporting
+- [Accessibility Report & Executive Summary](./Week6_Reporting/Accessibility_Report_Executive_Summary.pdf)

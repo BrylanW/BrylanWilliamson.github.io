@@ -63,6 +63,8 @@ Accessibility barriers can limit:
 Improving accessibility helps ensure equal access and improves usability for all users.
 
 ## Project Artifacts
+### Week 1 – Orientation
+- [Practicum Orientation & Client Acknowledgement](./Week1_Orientation/CYBR2600_PracticumOrientation%26ClientAcknowledgement.pdf)
 
 ### Week 2 – Planning
 - [Accessibility Assessment Plan](./Week2_Planning/Accessibility+Assessment+Plan+%26+Page+Inventory.pdf)  

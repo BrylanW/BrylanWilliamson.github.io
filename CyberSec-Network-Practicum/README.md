@@ -105,7 +105,7 @@ Accessibility should be treated as an ongoing process rather than a one-time eva
 ## Project Artifacts
 
 ### Week 2 – Planning
-- [Accessibility Assessment Plan](./Week2_Planning/Accessibility_Assessment_Plan.pdf)
+- [Accessibility Assessment Plan](./Week2_Planning/Accessibility+Assessment+Plan+&+Page+Invent)
 - [Scope & Planning Confirmation](./Week2_Planning/Scope_Planning_Confirmation.pdf)
 
 ### Week 3 – Automated Testing

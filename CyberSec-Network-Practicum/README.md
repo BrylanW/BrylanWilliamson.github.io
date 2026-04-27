@@ -104,6 +104,8 @@ Accessibility should be treated as an ongoing process rather than a one-time eva
 - Conduct deeper document accessibility validation
 ## Project Artifacts
 
+## Project Artifacts
+
 ### Week 2 – Planning
 - [Accessibility Assessment Plan](./Week2_Planning/Accessibility+Assessment+Plan+%26+Page+Inventory.pdf)
 - [Scope & Planning Confirmation](./Week2_Planning/CYBR2600_Scope%26PlanningConfirmation%20%281%29.pdf)
@@ -120,4 +122,4 @@ Accessibility should be treated as an ongoing process rather than a one-time eva
 - [Prioritization Reasoning Check](./Week5_Analysis/Week5_PrioritizationReasoningCheck%20%281%29.pdf)
 
 ### Week 6 – Reporting
-- [Accessibility Report & Executive Summary](./Week6_Reporting/Accessibility_Report_Executive_Summary.pdf)
+- [Accessibility Report & Executive Summary](./Week6_Reporting/Finished+Draft+Accessibility+Report+%26+Executive+Summary+%28Graded%29.pdf)

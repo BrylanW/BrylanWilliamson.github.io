@@ -116,8 +116,8 @@ Accessibility should be treated as an ongoing process rather than a one-time eva
 - [Manual Testing Participation Log](./Week4_Manual_Testing/Williamson_CYBR2600_Week04ManualTestingParticipationLog%20%281%29.pdf)
 
 ### Week 5 – Analysis
-- [Accessibility Risk Register & Prioritization Report](./Week5_Analysis/Accessibility_Risk_Register.pdf)
-- [Prioritization Reasoning Check](./Week5_Analysis/Prioritization_Reasoning_Check.pdf)
+- [Accessibility Risk Register & Prioritization Report](./Week5_Analysis/Accessibility%20Risk%20Register%20%26%20Prioritization%20Report%20%28Graded%29.docx)
+- [Prioritization Reasoning Check](./Week5_Analysis/Week5_PrioritizationReasoningCheck%20%281%29.pdf)
 
 ### Week 6 – Reporting
 - [Accessibility Report & Executive Summary](./Week6_Reporting/Accessibility_Report_Executive_Summary.pdf)

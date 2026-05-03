@@ -19,7 +19,8 @@ This audit followed a structured, professional workflow:
 - Week 4: Manual and assistive technology validation  
 - Week 5: Risk analysis and prioritization  
 - Week 6: Draft reporting and executive summary  
-
+- Week 7: Final deliverables and client-ready documentation
+    
 Each phase builds on the previous step to create a complete and defensible accessibility assessment.
 
 ## Scope
@@ -82,8 +83,11 @@ Improving accessibility helps ensure equal access and improves usability for all
 - [Prioritization Reasoning Check](./Week5_Analysis/Week5_PrioritizationReasoningCheck%20%281%29.pdf)  
 
 ### Week 6 – Reporting
-- [Accessibility Report & Executive Summary](./Week6_Reporting/Finished+Draft+Accessibility+Report+%26+Executive+Summary+%28Graded%29.pdf)  
-
+- [Accessibility Report & Executive Summary](./Week6_Reporting/Finished+Draft+Accessibility+Report+%26+Executive+Summary+%28Graded%29.pdf)
+  
+### Week 7 – Final Deliverables
+- [Accessibility Readiness Packet](./Week7_Final_Deliverables/Jacksonville%20Accessibility%20Readiness%20Packet.pdf)
+  
 ## Tools & Skills Demonstrated
 - Accessibility auditing (WCAG 2.1 Level AA)  
 - Automated testing tools (WAVE)  
